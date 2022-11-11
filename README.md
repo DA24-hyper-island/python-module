@@ -20,6 +20,9 @@ git switch -c vangelis-branch
 ### go ahead and write out your code or changes/updates where you want and then push to upstream
 git push --set-upstream origin vangelis-branch
 
+### subsequently use the following code to push to your repo
+git push origin vangelis-branch
+
 ### you can check github for the new branch pushed or check locally for branches.
 
 
